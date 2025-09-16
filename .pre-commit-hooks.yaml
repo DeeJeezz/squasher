@@ -1,0 +1,10 @@
+- id: squasher
+  name: squash commits
+  description: prevents multiple commits from being committed
+  language: script
+  entry: hook.sh
+  stages: [pre-push]
+  verbose: true
+  minimum_pre_commit_version: 3.2.0
+  always_run: true
+  fail_fast: true
