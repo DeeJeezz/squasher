@@ -1,6 +1,6 @@
 # squasher
 ![GitHub License](https://img.shields.io/github/license/DeeJeezz/squasher)
-![GitHub Release](https://img.shields.io/github/v/release/DeeJeezz/squasher)
+![GitHub Release](https://img.shields.io/github/v/release/DeeJeezz/squasher?sort=semver&display_name=tag&style=flat)
 
 Squash your commits before push to branch.
 
